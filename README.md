@@ -1,2 +1,2 @@
-# P4_SMARTCAB
+# SMARTCAB
 Reinforcement Learning
